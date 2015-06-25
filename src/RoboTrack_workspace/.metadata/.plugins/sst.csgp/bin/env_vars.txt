@@ -1,0 +1,4 @@
+C:\Program Files\Atollic\TrueSTUDIO for ARM Lite 4.3.1\ide\plugins\sst.tm_1.1.2.201311201110\CSHOME\
+C:\Program Files\Atollic\TrueSTUDIO for ARM Lite 4.3.1\ide\plugins\sst.csgp_1.0.5.201311201110\CSHOME
+C:\Program Files\Atollic\TrueSTUDIO for ARM Lite 4.3.1\ARMTools
+E:\project\robot\source\RoboTrack_workspace\.metadata\.plugins\sst.tm

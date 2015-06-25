@@ -1,0 +1,10 @@
+16:38:40 **** Incremental Build of configuration Debug for project RoboTrack ****
+Info: Internal Builder is used for build
+arm-atollic-eabi-gcc -c -mthumb -mcpu=cortex-m3 -std=gnu90 -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -I../src -I../inc -I..\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\Libraries\CMSIS\Device\ST\STM32F10x\Include -I..\Libraries\CMSIS\Include -O0 -ffunction-sections -fdata-sections -g -Wall -o src\wdg.o ..\src\wdg.c 
+In file included from ../inc/wdg.h:11:0,
+                 from ..\src\wdg.c:30:
+../inc/conf.h:26:24: fatal error: drv_ms5611.h: No such file or directory
+compilation terminated.
+
+16:38:40 Build Finished (took 128ms)
+
