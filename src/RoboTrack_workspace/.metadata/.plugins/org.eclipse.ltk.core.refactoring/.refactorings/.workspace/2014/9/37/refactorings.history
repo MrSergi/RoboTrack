@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;RoboTrack/src/LCD.h&apos;" deleteContents="false" description="Delete resource &apos;RoboTrack/src/LCD.h&apos;" element1="/RoboTrack/src/LCD.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1410093213604"/>&#x0A;<refactoring comment="Delete resource &apos;RoboTrack/Libraries/LCD.c&apos;" deleteContents="false" description="Delete resource &apos;RoboTrack/Libraries/LCD.c&apos;" element1="/RoboTrack/Libraries/LCD.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1410093283391"/>
-</session>
